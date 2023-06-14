@@ -6,4 +6,7 @@ pr: none
 
 variables:
   - group: test0613
+ 
+stages :   
+  - stage: az_cli_example
 
