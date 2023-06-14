@@ -6,8 +6,6 @@ pr: none
 
 variables:
   - group: test0613
-  - name: backendServiceArm
-    value: 'thomasthorntoncloud'
  
 stages :   
   - stage: az_cli_example
