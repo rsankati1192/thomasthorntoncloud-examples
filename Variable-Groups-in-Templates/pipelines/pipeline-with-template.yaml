@@ -9,4 +9,5 @@ variables:
  
 stages :   
   - stage: az_cli_example
-
+    jobs:
+      - template: templates/az-cli.yaml
