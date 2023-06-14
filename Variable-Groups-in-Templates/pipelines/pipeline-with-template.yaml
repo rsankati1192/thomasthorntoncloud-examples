@@ -5,7 +5,7 @@ trigger: none
 pr: none
 
 variables:
-  - group: azure-back-to-school-2021
+  - group: test0613
   - name: backendServiceArm
     value: 'thomasthorntoncloud'
  
